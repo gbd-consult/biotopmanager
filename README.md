@@ -1,5 +1,6 @@
-# biotopmanager
-QGIS Plugin zum Management von Biotopdaten
+# GBD Biotopmanager
+
+QGIS Plugin zum Management von Biotopdaten (Fachanwendung)
 
 Das QGIS Plugin dient der Erfassung, Bearbeitung und Historisierung von Biotopdaten. Es wurde initial für das Referat Naturschutz des LK Mittelsachsen entwickelt und kann an die Anforderungen landesspezifischer Naturschutzgesetze angepasst werden. Die Daten werden in PostgreSQL/PostGIS gemanaged.
 
