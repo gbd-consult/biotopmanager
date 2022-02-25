@@ -1,0 +1,235 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <title>Administration BiotopManager Plugin &mdash; Administration GBD Biotopmanager  documentation</title>
+  
+
+  
+  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+
+  
+  
+
+  
+  
+
+  
+
+  
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/language_data.js"></script>
+    
+    <script type="text/javascript" src="_static/js/theme.js"></script>
+
+    
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Installation der Datenbank" href="install.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="#" class="icon icon-home"> Administration GBD Biotopmanager
+          
+
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul>
+<li class="toctree-l1"><a class="reference internal" href="install.html">Installation der Datenbank</a></li>
+<li class="toctree-l1"><a class="reference internal" href="rechte.html">Rechteverwaltung</a></li>
+<li class="toctree-l1"><a class="reference internal" href="referenzdaten.html">Referenzdaten</a></li>
+</ul>
+
+            
+          
+        </div>
+        
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="#">Administration GBD Biotopmanager</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="#" class="icon icon-home"></a> &raquo;</li>
+        
+      <li>Administration BiotopManager Plugin</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="administration-biotopmanager-plugin">
+<h1>Administration BiotopManager Plugin<a class="headerlink" href="#administration-biotopmanager-plugin" title="Permalink to this headline">¶</a></h1>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="install.html">Installation der Datenbank</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="install.html#schema-biotope-erstellen">Schema biotope erstellen</a></li>
+<li class="toctree-l2"><a class="reference internal" href="install.html#import-vorhandener-biotopdaten">Import vorhandener Biotopdaten</a></li>
+<li class="toctree-l2"><a class="reference internal" href="install.html#schema-referenzen-erstellen">Schema referenzen erstellen</a></li>
+<li class="toctree-l2"><a class="reference internal" href="install.html#anpassungen-der-biotopdaten-nach-dem-import">Anpassungen der Biotopdaten nach dem Import</a></li>
+<li class="toctree-l2"><a class="reference internal" href="install.html#schema-historie-erstellen">Schema historie erstellen</a></li>
+<li class="toctree-l2"><a class="reference internal" href="install.html#bearbeitungstabelle-fur-den-administrator">Bearbeitungstabelle für den Administrator</a></li>
+<li class="toctree-l2"><a class="reference internal" href="install.html#bearbeitungstabelle-fur-die-editorgruppe">Bearbeitungstabelle für die Editorgruppe</a></li>
+<li class="toctree-l2"><a class="reference internal" href="install.html#anlegen-eines-beispiel-bearbeiters">Anlegen eines Beispiel Bearbeiters</a></li>
+<li class="toctree-l2"><a class="reference internal" href="install.html#verwendung-des-import-skripts">Verwendung des Import Skripts</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="rechte.html">Rechteverwaltung</a></li>
+<li class="toctree-l1"><a class="reference internal" href="referenzdaten.html">Referenzdaten</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="referenzdaten.html#referenz-aenderungen-csv">referenz_aenderungen.csv</a></li>
+<li class="toctree-l2"><a class="reference internal" href="referenzdaten.html#referenz-beeintraechtigungen-csv">referenz_beeintraechtigungen.csv</a></li>
+<li class="toctree-l2"><a class="reference internal" href="referenzdaten.html#referenz-biotoptypen-csv">referenz_biotoptypen.csv</a></li>
+<li class="toctree-l2"><a class="reference internal" href="referenzdaten.html#referenz-gefaehrdung-csv">referenz_gefaehrdung.csv</a></li>
+<li class="toctree-l2"><a class="reference internal" href="referenzdaten.html#referenz-kartierer-csv">referenz_kartierer.csv</a></li>
+<li class="toctree-l2"><a class="reference internal" href="referenzdaten.html#referenz-massnahmen-csv">referenz_massnahmen.csv</a></li>
+<li class="toctree-l2"><a class="reference internal" href="referenzdaten.html#referenz-pflege-csv">referenz_pflege.csv</a></li>
+<li class="toctree-l2"><a class="reference internal" href="referenzdaten.html#referenz-stoerung-csv">referenz_stoerung.csv</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+        <a href="install.html" class="btn btn-neutral float-right" title="Installation der Datenbank" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &#169; Copyright 2021, Geoinformatikbüro Dassau GmbH.
+
+    </p>
+  </div>
+    
+    
+    
+    Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    
+    provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>

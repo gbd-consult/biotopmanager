@@ -1,0 +1,40 @@
+# This file contains metadata for your plugin. Since 
+# version 2.0 of QGIS this is the proper way to supply 
+# information about a plugin. The old method of 
+# embedding metadata in __init__.py will 
+# is no longer supported since version 2.0.
+
+# This file should be included when you package your plugin.
+# Mandatory items:
+
+[general]
+name=GBD Biotopmanager
+qgisMinimumVersion=3.4
+description=Fachschale zur Verwaltung von Biotopdaten. 
+version=1.0
+author=Geoinformatikbüro Dassau GmbH
+email=info@gbd-consult.de
+
+about = QGIS Plugin zum managen eines Biotopkataster. Biotope können mit mehreren Benutzern gleichzeitig erstellt, bearbeitet und archiviert werden. Zu jedem Biotop kann die Historie der Geometrien und Fachdaten abgefragt und angezeigt werden. Optional können die Informationen als CSV oder als Report im HTML Format exportiert werden.
+
+tracker=https://github.com/gbd-consult/gbd-biotopmanager/issues
+repository=https://github.com/gbd-consult/gbd-biotopmanager
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=python
+
+homepage=http://gbd-consult.de
+category=Plugins
+icon=assets/icons/leaf-main-01.svg
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+

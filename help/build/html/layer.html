@@ -1,0 +1,270 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <title>Layer &mdash; GBD Biotopmanager  documentation</title>
+  
+
+  
+  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+
+  
+  
+
+  
+  
+
+  
+
+  
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/language_data.js"></script>
+    
+    <script type="text/javascript" src="_static/js/theme.js"></script>
+
+    
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Funktionalität" href="functions.html" />
+    <link rel="prev" title="Anmeldung" href="login.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="index.html" class="icon icon-home"> GBD Biotopmanager
+          
+
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="intro.html">Einführung</a></li>
+<li class="toctree-l1"><a class="reference internal" href="install.html">Installation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="login.html">Anmeldung</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Layer</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#gruppe-gbd-biotopkataster">Gruppe GBD Biotopkataster</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#biotope-bearbeitungslayer">Biotope Bearbeitungslayer</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#gesperrte-biotope">Gesperrte Biotope</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#biotope">Biotope</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#archivierte-biotope">Archivierte Biotope</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#gruppen-referenztabellen">Gruppen Referenztabellen</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="functions.html">Funktionalität</a></li>
+<li class="toctree-l1"><a class="reference internal" href="report.html">CSV Export und Bericht</a></li>
+</ul>
+
+            
+          
+        </div>
+        
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">GBD Biotopmanager</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="index.html" class="icon icon-home"></a> &raquo;</li>
+        
+      <li>Layer</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="layer">
+<h1>Layer<a class="headerlink" href="#layer" title="Permalink to this headline">¶</a></h1>
+<p>Wie auf dem folgenden Bild zu sehen ist, besteht die Struktur aus den beiden Gruppen <code class="docutils literal notranslate"><span class="pre">GBD</span> <span class="pre">Biotopkataster</span></code> und <code class="docutils literal notranslate"><span class="pre">Referenzlisten</span></code>.</p>
+<div class="figure align-center">
+<img alt="_images/grouplayer.png" src="_images/grouplayer.png" />
+</div>
+<div class="section" id="gruppe-gbd-biotopkataster">
+<h2>Gruppe GBD Biotopkataster<a class="headerlink" href="#gruppe-gbd-biotopkataster" title="Permalink to this headline">¶</a></h2>
+<p>Diese besteht aus den vier Layern <code class="docutils literal notranslate"><span class="pre">Biotope</span> <span class="pre">Bearbeitungslayer</span></code>, <code class="docutils literal notranslate"><span class="pre">Gesperrte</span> <span class="pre">Biotope</span></code>, <code class="docutils literal notranslate"><span class="pre">Biotope</span></code> und <code class="docutils literal notranslate"><span class="pre">Archivierte</span> <span class="pre">Biotope</span></code>. Als normaler Bearbeiter der Biotopdaten brauchen Sie sich nur auf diese zu konzentrieren. Die Layer sind vorgegeben, was mit dem Aufbau und der Benutzung des Plugins zusammenhängt.</p>
+<div class="section" id="biotope-bearbeitungslayer">
+<h3>Biotope Bearbeitungslayer<a class="headerlink" href="#biotope-bearbeitungslayer" title="Permalink to this headline">¶</a></h3>
+<p>Damit Anwender parallel arbeiten können, legt das Plugin für jeden Benutzer einen eigenen Bearbeitungslayer in der Datenbank an, auf welchem nur dieser Benutzer und der Administrator schreiben darf. Die Darstellung im Kartenfenster ist eine schwarz schraffierte Fläche mit roter Umrandung. In diesem Layer werden neue Biotope erzeugt und vorhandene verändert oder gelöscht.</p>
+<div class="figure align-center">
+<img alt="_images/bearbeitungslayer.png" src="_images/bearbeitungslayer.png" />
+</div>
+</div>
+<div class="section" id="gesperrte-biotope">
+<h3>Gesperrte Biotope<a class="headerlink" href="#gesperrte-biotope" title="Permalink to this headline">¶</a></h3>
+<p>Wenn ein Benutzer aus dem Layer <code class="docutils literal notranslate"><span class="pre">Biotope</span></code> eine oder mehrere Flächen ausgewählt hat und diese nun bearbeiten möchte, nutzt er dazu die Funktionalität <a class="reference internal" href="_images/leaf-edit-01.svg"><img alt="edit" src="_images/leaf-edit-01.svg" width="25em" /></a> <code class="docutils literal notranslate"><span class="pre">Ausgewählte</span> <span class="pre">Biotope</span> <span class="pre">editieren</span> <span class="pre">und</span> <span class="pre">sperren</span></code>. Die ausgewählten Flächen werden dann zum einen in den <code class="docutils literal notranslate"><span class="pre">Biotope</span> <span class="pre">Bearbeitungslayer</span></code> kopiert, zum anderen in den Layer <code class="docutils literal notranslate"><span class="pre">Gesperrte</span> <span class="pre">Biotope</span></code>, damit andere Benutzer keine Änderungen vornehmen können, bis diese Layer wieder entsperrt sind. Die Darstellung im Kartenfenster ist eine rote Umrandung der Fläche.</p>
+<div class="figure align-center">
+<img alt="_images/gesperrtebiotope.png" src="_images/gesperrtebiotope.png" />
+</div>
+</div>
+<div class="section" id="biotope">
+<h3>Biotope<a class="headerlink" href="#biotope" title="Permalink to this headline">¶</a></h3>
+<p>Der Layer <code class="docutils literal notranslate"><span class="pre">Biotope</span></code> umfasst den eigentlichen Datenbestand, also alle aktuellen Biotope. Er wird genutzt, um Informationen zu einem Biotop abzufragen oder um Biotope auszuwählen und dann über den <code class="docutils literal notranslate"><span class="pre">Biotope</span> <span class="pre">Bearbeitungslayer</span></code> zu bearbeiten. Die Darstellung im Kartenfenster ist dunkelgrau.</p>
+<div class="figure align-center">
+<img alt="_images/biotopelayer.png" src="_images/biotopelayer.png" />
+</div>
+</div>
+<div class="section" id="archivierte-biotope">
+<h3>Archivierte Biotope<a class="headerlink" href="#archivierte-biotope" title="Permalink to this headline">¶</a></h3>
+<p>Im Layer <code class="docutils literal notranslate"><span class="pre">Archivierte</span> <span class="pre">Biotope</span></code> sind alle Biotope abgelegt, die nicht mehr aktuell sind. Diese wurden durch einen bestimmten Benutzer aus dem aktuellen Datenbestand über die Funktion <a class="reference internal" href="_images/leaf-archive-01.svg"><img alt="archive" src="_images/leaf-archive-01.svg" width="25em" /></a> <code class="docutils literal notranslate"><span class="pre">Ausgewählte</span> <span class="pre">Biotope</span> <span class="pre">archivieren</span></code> mit einem Zeitstempel und einem Vermerk hierher verschoben. Die Darstellung im Kartenfenster ist hellgrau.</p>
+<div class="figure align-center">
+<img alt="_images/archiviertebiotope.png" src="_images/archiviertebiotope.png" />
+</div>
+</div>
+</div>
+<div class="section" id="gruppen-referenztabellen">
+<h2>Gruppen Referenztabellen<a class="headerlink" href="#gruppen-referenztabellen" title="Permalink to this headline">¶</a></h2>
+<p>Der Gruppenlayer <strong>Referenztabellen</strong> besteht aus den Tabellen <code class="docutils literal notranslate"><span class="pre">aenderungen</span></code>, <code class="docutils literal notranslate"><span class="pre">beeintraechtigungen</span></code>, <code class="docutils literal notranslate"><span class="pre">biotypen</span></code>, <code class="docutils literal notranslate"><span class="pre">gefaehrdung</span></code>, <code class="docutils literal notranslate"><span class="pre">kartierer</span></code> <code class="docutils literal notranslate"><span class="pre">massnahmen</span></code>, <code class="docutils literal notranslate"><span class="pre">pflege</span></code>, <code class="docutils literal notranslate"><span class="pre">stoerung</span></code>, <code class="docutils literal notranslate"><span class="pre">schutzstatus</span></code> und <code class="docutils literal notranslate"><span class="pre">erhaltungszustand</span></code>.</p>
+<p>Diese Tabellen werden durch das Plugin genutzt, um dem Bearbeiter Auswahllisten mit vorgegebenen Werten in den Formularen zur Verfügung zu stellen. Als Beispiel sehen Sie hier den Inhalt der Referenzliste <code class="docutils literal notranslate"><span class="pre">schutzstatus</span></code>.</p>
+<div class="figure align-center">
+<img alt="_images/referenztabelle.png" src="_images/referenztabelle.png" />
+</div>
+<p>Diese Referenzliste wird Ihnen im Reiter <code class="docutils literal notranslate"><span class="pre">Basisdaten</span></code> des Bearbeitungsformular als Dropdown-Menü zur Auswahl angeboten.</p>
+<p>Um die Referenztabellen bearbeiten zu können, benötigen sie die Rechte eines Administratotors.</p>
+<blockquote>
+<div></div></blockquote>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+        <a href="functions.html" class="btn btn-neutral float-right" title="Funktionalität" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="login.html" class="btn btn-neutral float-left" title="Anmeldung" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &#169; Copyright 2021, Geoinformatikbüro Dassau GmbH.
+
+    </p>
+  </div>
+    
+    
+    
+    Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    
+    provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>

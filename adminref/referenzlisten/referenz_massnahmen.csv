@@ -1,0 +1,301 @@
+referenz;massnahme;beschreibung;lr1;lr2;lr3;lr4;lr5
+1.01.01;Gehölzentfernung einmalig/Rodung;1.01.01 Gehölzentfernung einmalig/Rodung;1;1;1;1;1
+1.01.02;Gehölzentfernung regelmäßig/Beseitigung von Neuaustrieb;1.01.02 Gehölzentfernung regelmäßig/Beseitigung von Neuaustrieb;1;1;1;1;1
+1.02;Beseitigung krautiger Konkurrenzpflanzen/Neophyten;1.02 Beseitigung krautiger Konkurrenzpflanzen/Neophyten;1;1;1;1;1
+1.03;Beseitigung von Ablagerungen (Schnittgut, Holz, Müll, Kirrungen etc.);1.03 Beseitigung von Ablagerungen (Schnittgut, Holz, Müll, Kirrungen etc.);0;1;1;1;1
+1.04;Beseitigung militärischer Altlasten;1.04 Beseitigung militärischer Altlasten;1;0;0;0;1
+1.05.01;umfassende Gewässerrenaturierung (bitte erläutern);1.05.01 umfassende Gewässerrenaturierung (bitte erläutern);0;0;0;1;0
+1.05.02;Umbau/Neubau der Stauanlagen;1.05.02 Umbau/Neubau der Stauanlagen;0;0;1;0;0
+1.05.03;Umbau/Neubau der Zuleitungsanlagen;1.05.03 Umbau/Neubau der Zuleitungsanlagen;0;0;1;0;0
+1.05.04;Beseitigung von Querverbauungen/Sicherung der Durchgängigkeit;1.05.04 Beseitigung von Querverbauungen/Sicherung der Durchgängigkeit;0;0;1;1;0
+1.05.05;Beseitigung von Uferverbauungen;1.05.05 Beseitigung von Uferverbauungen;0;0;1;1;0
+1.05.06;Öffnen von verrohrten/kanalisierten Gewässerabschnitten;1.05.06 Öffnen von verrohrten/kanalisierten Gewässerabschnitten;0;0;0;1;0
+1.05.07;Anlage / Instandsetzung von Fischpässen/-treppen;1.05.07 Anlage / Instandsetzung von Fischpässen/-treppen;0;0;0;1;0
+1.05.08;Anlage von Durchlässen/Unterführungen;1.05.08 Anlage von Durchlässen/Unterführungen;0;0;0;1;0
+1.05.09;Gewässeranbindung (z. B. Altwasser);1.05.09 Gewässeranbindung (z. B. Altwasser);0;0;1;0;0
+1.05.10;Förderung einer erhöhten Fließgewässerdynamik/Schaffung von Strukturen;1.05.10 Förderung einer erhöhten Fließgewässerdynamik/Schaffung von Strukturen;1;0;0;1;1
+1.06.01;Anlage/Optimierung von Nistplätzen/-hilfen (Horste, Nist- und Quartierkästen, Brutinseln);1.06.01 Anlage/Optimierung von Nistplätzen/-hilfen (Horste, Nist- und Quartierkästen, Brutinseln);1;1;1;1;1
+1.06.02;Anlage/Optimierung von Versteckplätzen/Hangplätzen, einschließlich Wärmekammern;1.06.02 Anlage/Optimierung von Versteckplätzen/Hangplätzen, einschließlich Wärmekammern;1;1;0;0;0
+1.06.03;Verdunklungsmaßnahmen in Dachräumen;1.06.03 Verdunklungsmaßnahmen in Dachräumen;0;1;0;0;0
+1.06.04;Herrichtung und Bereitstellung von Gebäudeteilen (z. B. Dachräume);1.06.04 Herrichtung und Bereitstellung von Gebäudeteilen (z. B. Dachräume);0;1;0;0;0
+1.06.05;Vergitterung (Fledermaus-Winterquartiere);1.06.05 Vergitterung (Fledermaus-Winterquartiere);0;1;0;0;0
+1.06.06;Schaffung/Sicherung von Einflug-/Einschlupföffnungen;1.06.06 Schaffung/Sicherung von Einflug-/Einschlupföffnungen;0;1;0;0;0
+1.06.07;Verhindern des Eindringens von Tauben;1.06.07 Verhindern des Eindringens von Tauben;0;1;0;0;0
+1.06.08;Vermauern von Fenster-/Türöffnungen (Verhinderung Vandalismus);1.06.08 Vermauern von Fenster-/Türöffnungen (Verhinderung Vandalismus);0;1;0;0;0
+1.06.09;Sicherung Zugang durch vandalismussichere Tür;1.06.09 Sicherung Zugang durch vandalismussichere Tür;0;1;0;0;0
+1.06.10;Abwehr von Prädatoren (z. B. Manschetten an Nistplätzen);1.06.10 Abwehr von Prädatoren (z. B. Manschetten an Nistplätzen);1;1;0;0;0
+1.07.01;Beseitigung/Rückbau von baulichen Anlagen (Wege, Brücken, Tunnel etc.);1.07.01 Beseitigung/Rückbau von baulichen Anlagen (Wege, Brücken, Tunnel etc.);1;0;1;1;1
+1.07.02;Anlage von Steilwänden/Bodenabbrüchen;1.07.02 Anlage von Steilwänden/Bodenabbrüchen;0;1;1;1;0
+1.07.03;Ansitzwarten für Vögel;1.07.03 Ansitzwarten für Vögel;0;1;0;0;1
+1.08.01;Minimierung des Sedimenteintrages unspezifiziert;1.08.01 Minimierung des Sedimenteintrages unspezifiziert;1;0;1;1;1
+1.08.02;unbewirtschafteter Gewässerrandstreifen;1.08.02 unbewirtschafteter Gewässerrandstreifen;0;0;1;1;0
+1.08.03;Bodenschonender Ackerbau;1.08.03 Bodenschonender Ackerbau;0;0;1;1;1
+1.08.04;Umwandlung Acker in Grünland;1.08.04 Umwandlung Acker in Grünland;0;0;1;1;1
+1.08.06;morphologische Veränderung von Eintragsbahnen (Verlegung, Rückstaue);1.08.06 morphologische Veränderung von Eintragsbahnen (Verlegung, Rückstaue);0;1;0;0;0
+1.08.07;Anlage von Pufferstreifen/-flächen ;1.08.07 Anlage von Pufferstreifen/-flächen ;1;0;1;1;1
+1.09;Unterbinden von Einleitungen;1.09 Unterbinden von Einleitungen;0;0;1;1;0
+1.10;Abwasserklärung im Einzugsgebiet;1.10 Abwasserklärung im Einzugsgebiet;0;0;1;1;0
+1.11;Verminderung der Grundwasserentnahme;1.11 Verminderung der Grundwasserentnahme;0;0;1;1;1
+1.12;Sicherung einer Mindestwassermenge in Ausleitungsstrecken;1.12 Sicherung einer Mindestwassermenge in Ausleitungsstrecken;0;0;0;1;0
+1.13;Beseitigung von Viehtränken;1.13 Beseitigung von Viehtränken;0;0;1;1;1
+1.14;Auszäunung sensibler Bereiche bzw. der LRT-Fläche;1.14 Auszäunung sensibler Bereiche bzw. der LRT-Fläche;0;0;1;1;1
+1.15;Reduzierung des (Schwarz-)Wildbestandes;1.15 Reduzierung des (Schwarz-)Wildbestandes;1;0;1;0;1
+1.16;Horstschutzzone;1.16 Horstschutzzone;1;0;1;0;0
+1.17;Verlagerung jagdlicher Einrichtungen;1.17 Verlagerung jagdlicher Einrichtungen;1;0;0;0;1
+1.18;Wegsperrung;1.18 Wegsperrung;1;1;1;1;1
+1.19;Bewachung;1.19 Bewachung;1;0;1;0;0
+1.20;Sonstige Verminderung von Beeinträchtigungen (bitte erläutern);1.20 Sonstige Verminderung von Beeinträchtigungen (bitte erläutern);1;1;1;1;1 
+2.01.01;Belassen von Brach- und Saumstreifen;2.01.01 Belassen von Brach- und Saumstreifen;0;0;0;0;1
+2.01.02;Pferchen außerhalb der Fläche oder hangabwärts;2.01.02 Pferchen außerhalb der Fläche oder hangabwärts;0;0;0;0;1
+2.01.03;Anpassung der Besatzdichte (bitte erläutern);2.01.03 Anpassung der Besatzdichte (bitte erläutern);0;0;0;0;1
+2.01.04;Hoch angesetzter Grasschnitt (i. d. R. ≥7 cm);2.01.04 Hoch angesetzter Grasschnitt (i. d. R. ≥7 cm);0;0;0;0;1
+2.01.05;Aushagerung (zeitweilig erhöhte Schnitthäufigkeit/Beweidungsintensität ohne Düngung);2.01.05 Aushagerung (zeitweilig erhöhte Schnitthäufigkeit/Beweidungsintensität ohne Düngung);0;0;0;0;1
+2.01.06 ;Mahdgutübertragung;2.01.06  Mahdgutübertragung;0;0;0;0;1
+2.01.07;Belassen des Mahdgutes auf der Fläche für mehrere Tage;2.01.07 Belassen des Mahdgutes auf der Fläche für mehrere Tage;0;0;0;0;1
+2.01.08;Keine dauerhafte Mahdgutablagerung auf oder im Umfeld der Fläche;2.01.08 Keine dauerhafte Mahdgutablagerung auf oder im Umfeld der Fläche;0;0;0;1;1
+2.01.09;Einsatz bodenschonender Technik;2.01.09 Einsatz bodenschonender Technik;0;0;0;0;1
+2.01.10;Verwendung tierschonender Mahdtechnik;2.01.10 Verwendung tierschonender Mahdtechnik;0;0;0;0;1
+2.01.11;Schaffung kleinflächiger vegetationsoffener Bereiche;2.01.11 Schaffung kleinflächiger vegetationsoffener Bereiche;0;0;0;0;1
+2.01.12;Plaggen/flächiges Abschieben von Oberboden;2.01.12 Plaggen/flächiges Abschieben von Oberboden;0;0;0;0;1
+2.01.13;Kontrolliertes Brennen/Flämmen;2.01.13 Kontrolliertes Brennen/Flämmen;0;0;0;0;1
+2.01.14;Mahd mit Kleintechnik;2.01.14 Mahd mit Kleintechnik;0;0;0;0;1
+2.01.14.01;Handmahd (Sense, Freischneider…);2.01.14.01 Handmahd (Sense, Freischneider…);0;0;0;0;1
+2.01.14.02;Mahd mit Einachsmäher/handgeführtem Balkenmäher;2.01.14.02 Mahd mit Einachsmäher/handgeführtem Balkenmäher;0;0;0;0;1
+2.01.15.01;Mahd, Nachbeweidung möglich;2.01.15.01 Mahd, Nachbeweidung möglich;0;0;0;0;1
+2.01.15.02;Mahd ohne Nachbeweidung;2.01.15.02 Mahd ohne Nachbeweidung;0;0;0;0;1
+2.01.15.03;Beweidung;2.01.15.03 Beweidung;0;0;0;0;1
+2.01.15.04;Alternativ Mahd und/oder Beweidung;2.01.15.04 Alternativ Mahd und/oder Beweidung;0;0;0;0;1
+2.01.15.05;Keine regelmäßige Nutzung/Pflege;2.01.15.05 Keine regelmäßige Nutzung/Pflege;0;0;0;0;1
+2.01.16.01;Staffelmahd/Mahd nur in Teilbereichen (bitte erläutern);2.01.16.01 Staffelmahd/Mahd nur in Teilbereichen (bitte erläutern);0;0;0;0;1
+2.01.16.02;Selektive Mahd (bitte erläutern);2.01.16.02 Selektive Mahd (bitte erläutern);0;0;0;0;1
+2.01.16.03;Nutzungspause (> 6-8 Wochen);2.01.16.03 Nutzungspause (> 6-8 Wochen);0;0;0;0;1
+2.01.16.04;Nutzungspause (ca. 12 Wochen);2.01.16.04 Nutzungspause (ca. 12 Wochen);0;0;0;0;1
+2.01.16.05;"spezielle Mahdmuster (z. B. von innen nach außen; bitte erläutern)";"2.01.16.05 spezielle Mahdmuster (z. B. von innen nach außen; bitte erläutern)";0;0;0;0;1
+2.01.16.06;Keine Vorgabe zur Form der Mahd;2.01.16.06 Keine Vorgabe zur Form der Mahd;0;0;0;0;1
+2.01.16.07;Nutzungspause (ca. 15 Wochen);2.01.16.07 Nutzungspause (ca. 15 Wochen);0;0;0;0;1
+2.01.22.01;1-schürig;2.01.22.01 1-schürig;0;0;0;0;1
+2.01.22.02;1- bis 2-schürig;2.01.22.02 1- bis 2-schürig;0;0;0;0;1
+2.01.22.03;2-schürig;2.01.22.03 2-schürig;0;0;0;0;1
+2.01.22.04;2- bis 3-schürig;2.01.22.04 2- bis 3-schürig;0;0;0;0;1
+2.01.22.05;3-schürig;2.01.22.05 3-schürig;0;0;0;0;1
+2.01.22.06;Mahd alle 1 bis 3 Jahre;2.01.22.06 Mahd alle 1 bis 3 Jahre;0;0;0;0;1
+2.01.22.07;Mahd bei Bedarf in mehrjährigen Abständen;2.01.22.07 Mahd bei Bedarf in mehrjährigen Abständen;0;0;0;0;1
+2.01.17.01;Nur Schafe/Ziegen;2.01.17.01 Nur Schafe/Ziegen;0;0;0;0;1
+2.01.17.04;Nur Rinder/Schafe/Ziegen;2.01.17.04 Nur Rinder/Schafe/Ziegen;0;0;0;0;1
+2.01.17.02;Andere Beschränkung Weidevieh (bitte erläutern);2.01.17.02 Andere Beschränkung Weidevieh (bitte erläutern);0;0;0;0;1
+2.01.17.03;Keine Vorgabe zu Weidetierarten;2.01.17.03 Keine Vorgabe zu Weidetierarten;0;0;0;0;1
+2.01.17.05;Vorgaben zur Art der Weidetierhaltung (Stand-, Hüte-, Umtriebs-, Triftweide);2.01.17.05 Vorgaben zur Art der Weidetierhaltung (Stand-, Hüte-, Umtriebs-, Triftweide);0;0;0;0;1
+2.01.18.01;Erster Nutzungstermin bis Ende Mai;2.01.18.01 Erster Nutzungstermin bis Ende Mai;0;0;0;0;1
+2.01.18.02;Frühester Nutzungstermin ab 1. Juni;2.01.18.02 Frühester Nutzungstermin ab 1. Juni;0;0;0;0;1
+2.01.18.03;Frühester Nutzungstermin ab 15. Juni;2.01.18.03 Frühester Nutzungstermin ab 15. Juni;0;0;0;0;1
+2.01.18.04;Frühester Nutzungstermin ab 1. Juli;2.01.18.04 Frühester Nutzungstermin ab 1. Juli;0;0;0;0;1
+2.01.18.05;Frühester Nutzungstermin ab 15. Juli;2.01.18.05 Frühester Nutzungstermin ab 15. Juli;0;0;0;0;1
+2.01.18.06;Frühester Nutzungstermin ab 1. August;2.01.18.06 Frühester Nutzungstermin ab 1. August;0;0;0;0;1
+2.01.18.07;Frühester Nutzungstermin ab 1. September;2.01.18.07 Frühester Nutzungstermin ab 1. September;0;0;0;0;1
+2.01.18.08 ;Wintermahd;2.01.18.08  Wintermahd;0;0;0;0;1
+2.01.18.09;Keine Vorgabe zum frühesten Nutzungs-/Pflegetermin;2.01.18.09 Keine Vorgabe zum frühesten Nutzungs-/Pflegetermin;0;0;0;0;1
+2.01.18.12;sonstige Vorgaben zum frühesten Nutzungstermin (bitte erläutern);2.01.18.12 sonstige Vorgaben zum frühesten Nutzungstermin (bitte erläutern);0;0;0;0;1
+2.01.19.01;Keine N-Düngung;2.01.19.01 Keine N-Düngung;0;0;0;0;1
+2.01.19.03;N-Düngung maximal in Höhe des Entzugs;2.01.19.03 N-Düngung maximal in Höhe des Entzugs;0;0;0;0;1
+2.01.19.04;Keine Vorgabe zur N-Düngung;2.01.19.04 Keine Vorgabe zur N-Düngung;0;0;0;0;1
+2.01.20.01;Keine Grunddüngung;2.01.20.01 Keine Grunddüngung;0;0;0;0;1
+2.01.20.03;Grunddüngung maximal in Höhe des Entzugs;2.01.20.03 Grunddüngung maximal in Höhe des Entzugs;0;0;0;0;1
+2.01.20.04;Keine Vorgabe zur Grunddüngung;2.01.20.04 Keine Vorgabe zur Grunddüngung;0;0;0;0;1
+2.01.21.01;Keine Grünlandkalkung;2.01.21.01 Keine Grünlandkalkung;0;0;0;0;1
+2.01.21.02;Vorgaben zur Grünlandkalkung (bitte erläutern);2.01.21.02 Vorgaben zur Grünlandkalkung (bitte erläutern);0;0;0;0;1
+2.01.21.03;Keine Vorgabe zur Grünlandkalkung;2.01.21.03 Keine Vorgabe zur Grünlandkalkung;0;0;0;0;1
+2.02.01;Gehölzpflanzung mit standortheimischen Arten;2.02.01 Gehölzpflanzung mit standortheimischen Arten;0;1;1;1;1
+2.02.02;Gehölzpflanzung nur lückig bzw. in kleineren Bereichen;2.02.02 Gehölzpflanzung nur lückig bzw. in kleineren Bereichen;0;1;0;1;0
+2.02.03;Einzelbaumpflanzung;2.02.03 Einzelbaumpflanzung;0;1;0;0;1
+2.02.04;Gehölzpflege (Heckenschnitt, Kopfweiden, Obstbäume etc.);2.02.04 Gehölzpflege (Heckenschnitt, Kopfweiden, Obstbäume etc.);0;1;1;1;1
+2.02.05;Gehölze in Anteilen unter 10% belassen;2.02.05 Gehölze in Anteilen unter 10% belassen;0;0;1;1;1
+2.02.06;sonstige Maßnahmen zu Gehölzstrukturen (bitte erläutern);2.02.06 sonstige Maßnahmen zu Gehölzstrukturen (bitte erläutern);0;0;1;1;1
+2.03.01.01;Mehrschichtigkeit aktiv erhalten;2.03.01.01 Mehrschichtigkeit aktiv erhalten;1;0;0;0;0
+2.03.01.02;Mehrschichtigkeit verbessern/entwickeln;2.03.01.02 Mehrschichtigkeit verbessern/entwickeln;1;0;0;0;0
+2.03.01.03;Vor-/Unterbau mit lebensraumtypischen Baumarten;2.03.01.03 Vor-/Unterbau mit lebensraumtypischen Baumarten;1;0;0;0;0
+2.03.01.04;Lebensraumtyp kleinflächig verjüngen;2.03.01.04 Lebensraumtyp kleinflächig verjüngen;1;0;0;0;0
+2.03.01.05;Plenterstruktur erhalten;2.03.01.05 Plenterstruktur erhalten;1;0;0;0;0
+2.03.01.06;Plenterstruktur verbessern/entwickeln;2.03.01.06 Plenterstruktur verbessern/entwickeln;1;0;0;0;0
+2.03.01.07;Auslichten dichter Gehölzbestände/Entfernung bestimmter Gehölze;2.03.01.07 Auslichten dichter Gehölzbestände/Entfernung bestimmter Gehölze;1;0;0;0;1
+2.03.01.08;Anlage/Erhalt von Lichtungen und Freiflächen im Wald;2.03.01.08 Anlage/Erhalt von Lichtungen und Freiflächen im Wald;1;0;0;0;1
+2.03.01.09;Mittelwaldartige Bewirtschaftung;2.03.01.09 Mittelwaldartige Bewirtschaftung;1;0;0;0;0
+2.03.01.10;Niederwaldartige Bewirtschaftung;2.03.01.10 Niederwaldartige Bewirtschaftung;1;0;0;0;0
+2.03.01.11;Anlage von Waldinnen- und Außenmänteln und –säumen;2.03.01.11 Anlage von Waldinnen- und Außenmänteln und –säumen;1;0;0;0;0
+2.03.01.12;Erntenutzungszeitraum verlängern;2.03.01.12 Erntenutzungszeitraum verlängern;1;0;0;0;0
+2.03.01.13;Fläche nicht bewirtschaften;2.03.01.13 Fläche nicht bewirtschaften;1;0;0;0;0
+2.03.01.14;Außerregelmäßige Bewirtschaftung (a. r. B.);2.03.01.14 Außerregelmäßige Bewirtschaftung (a. r. B.);1;0;0;0;0
+2.03.01.15;Belassen von Altholz ;2.03.01.15 Belassen von Altholz ;1;0;0;0;0
+2.03.01.16;Sonstige Maßnahmen zugunsten der Waldstruktur (bitte erläutern);2.03.01.16 Sonstige Maßnahmen zugunsten der Waldstruktur (bitte erläutern);1;0;0;0;0
+2.03.01.17;Maßnahmen zugunsten sonstiger Strukturmerkmale (bitte erläutern);2.03.01.17 Maßnahmen zugunsten sonstiger Strukturmerkmale (bitte erläutern);1;0;0;0;0
+2.03.02.01;Starkes stehendes und liegendes Totholz belassen (mind. 3 Stück/ha);2.03.02.01 Starkes stehendes und liegendes Totholz belassen (mind. 3 Stück/ha);1;0;0;0;0
+2.03.02.02;Starkes stehendes oder liegendes Totholz belassen (mind. 1 Stück/ha);2.03.02.02 Starkes stehendes oder liegendes Totholz belassen (mind. 1 Stück/ha);1;0;0;0;0
+2.03.02.03;Starkes stehendes und liegendes Totholz anreichern (mind. 3 Stück/ha);2.03.02.03 Starkes stehendes und liegendes Totholz anreichern (mind. 3 Stück/ha);1;0;0;0;0
+2.03.02.04;Starkes stehendes oder liegendes Totholz anreichern (mind. 1 Stück/ha);2.03.02.04 Starkes stehendes oder liegendes Totholz anreichern (mind. 1 Stück/ha);1;0;0;0;0
+2.03.02.05;Belassen von Totholz/Baumstubben;2.03.02.05 Belassen von Totholz/Baumstubben;1;0;1;1;1
+2.03.03.01;Biotopbäume belassen (mind. 12 Stück/ha, Artenschutz);2.03.03.01 Biotopbäume belassen (mind. 12 Stück/ha, Artenschutz);1;0;0;0;0
+2.03.03.02;Biotopbäume belassen (mind. 6 Stück/ha);2.03.03.02 Biotopbäume belassen (mind. 6 Stück/ha);1;0;0;0;0
+2.03.03.03;Biotopbäume belassen (mind. 3 Stück/ha);2.03.03.03 Biotopbäume belassen (mind. 3 Stück/ha);1;0;0;0;0
+2.03.03.04;Biotopbäume anreichern (mind. 12 Stück/ha, Artenschutz);2.03.03.04 Biotopbäume anreichern (mind. 12 Stück/ha, Artenschutz);1;0;0;0;0
+2.03.03.05;Biotopbäume anreichern (mind. 6 Stück/ha);2.03.03.05 Biotopbäume anreichern (mind. 6 Stück/ha);1;0;0;0;0
+2.03.03.06;Biotopbäume anreichern (mind. 3 Stück/ha);2.03.03.06 Biotopbäume anreichern (mind. 3 Stück/ha);1;0;0;0;0
+2.03.03.07;Belassen von Horst- und Höhlenbäumen;2.03.03.07 Belassen von Horst- und Höhlenbäumen;1;0;0;0;0
+2.03.04.01;Anteil der lebensraumtypischen Hauptbaumarten aktiv erhalten (A-Status);2.03.04.01 Anteil der lebensraumtypischen Hauptbaumarten aktiv erhalten (A-Status);1;0;0;0;0
+2.03.04.02;Anteil der lebensraumtypischen Hauptbaumarten aktiv erhalten (B-Status);2.03.04.02 Anteil der lebensraumtypischen Hauptbaumarten aktiv erhalten (B-Status);1;0;0;0;0
+2.03.04.03;Anteil der lebensraumtypischen Nebenbaumarten aktiv erhalten (A-Status);2.03.04.03 Anteil der lebensraumtypischen Nebenbaumarten aktiv erhalten (A-Status);1;0;0;0;0
+2.03.04.04;Anteil der lebensraumtypischen Nebenbaumarten aktiv erhalten (B-Status);2.03.04.04 Anteil der lebensraumtypischen Nebenbaumarten aktiv erhalten (B-Status);1;0;0;0;0
+2.03.04.05;Anteil lebensraumtypischer Hauptbaumarten erhöhen;2.03.04.05 Anteil lebensraumtypischer Hauptbaumarten erhöhen;1;0;0;0;0
+2.03.04.06;Anteil lebensraumtypischer Nebenbaumarten erhöhen;2.03.04.06 Anteil lebensraumtypischer Nebenbaumarten erhöhen;1;0;0;0;0
+2.03.04.07;Naturverjüngung lebensraumtypischer Baumarten fördern;2.03.04.07 Naturverjüngung lebensraumtypischer Baumarten fördern;1;0;0;0;0
+2.03.04.08;Lebensraumtyp durch Pflanzung oder Saat verjüngen;2.03.04.08 Lebensraumtyp durch Pflanzung oder Saat verjüngen;1;0;0;0;0
+2.03.04.09;Gesellschaftsfremden Baumartenanteil bei Hiebsreife reduzieren;2.03.04.09 Gesellschaftsfremden Baumartenanteil bei Hiebsreife reduzieren;1;0;0;0;0
+2.03.04.10;Gesellschaftsfremden Baumartenanteil vor der Hiebsreife reduzieren;2.03.04.10 Gesellschaftsfremden Baumartenanteil vor der Hiebsreife reduzieren;1;0;0;0;0
+2.03.04.11;Verjüngung gesellschaftsfremder Gehölze reduzieren;2.03.04.11 Verjüngung gesellschaftsfremder Gehölze reduzieren;1;0;0;0;0
+2.03.04.12;Sonstige Maßn. zugunsten des lebensraumtyp. Baumarteninventars (bitte erläutern);2.03.04.12 Sonstige Maßn. zugunsten des lebensraumtyp. Baumarteninventars (bitte erläutern);1;0;0;0;0
+2.03.04.13;Förderung bestimmter Baumarten (bitte erläutern);2.03.04.13 Förderung bestimmter Baumarten (bitte erläutern);1;0;0;0;0
+2.03.05.01;Untypische Dominanzen in der Bodenvegetation regulieren;2.03.05.01 Untypische Dominanzen in der Bodenvegetation regulieren;1;0;0;0;0
+2.03.05.02;Sonstige Maßn. zugunsten der lebensraumtyp. Bodenvegetation (bitte erläutern);2.03.05.02 Sonstige Maßn. zugunsten der lebensraumtyp. Bodenvegetation (bitte erläutern);1;0;0;0;0
+2.03.06.01;Keine Befahrung;2.03.06.01 Keine Befahrung;1;0;0;0;0
+2.03.06.02;Befahrung nur auf permanenten Rückegassen;2.03.06.02 Befahrung nur auf permanenten Rückegassen;1;0;0;0;0
+2.03.06.03;Befahrung nur in Trockenperioden oder bei Dauerfrost;2.03.06.03 Befahrung nur in Trockenperioden oder bei Dauerfrost;1;0;0;0;0
+2.03.06.04;Bodenschonende Rückeverfahren anwenden;2.03.06.04 Bodenschonende Rückeverfahren anwenden;1;0;0;0;0
+2.03.06.05;Holz mit Seilkran rücken;2.03.06.05 Holz mit Seilkran rücken;1;0;0;0;0
+2.03.06.06;Torfabbau/Materialentnahme einstellen;2.03.06.06 Torfabbau/Materialentnahme einstellen;1;0;1;0;1
+2.03.06.07;Sonstige Maßnahmen zugunsten der Bodenstruktur (bitte erläutern);2.03.06.07 Sonstige Maßnahmen zugunsten der Bodenstruktur (bitte erläutern);1;0;0;0;0
+2.03.07.01;Eutrophierung reduzieren/einstellen;2.03.07.01 Eutrophierung reduzieren/einstellen;1;0;0;0;0
+2.03.07.02;Auf Kalkung verzichten;2.03.07.02 Auf Kalkung verzichten;1;0;0;0;0
+2.03.07.03;Kompensationskalkung durchführen;2.03.07.03 Kompensationskalkung durchführen;1;0;0;0;0
+2.03.07.04;Organische Ablagerungen beseitigen;2.03.07.04 Organische Ablagerungen beseitigen;1;0;0;0;0
+2.03.07.05;Müll/anorganische Ablagerungen beseitigen;2.03.07.05 Müll/anorganische Ablagerungen beseitigen;1;0;0;0;0
+2.03.07.06;Schadstoffimmission reduzieren;2.03.07.06 Schadstoffimmission reduzieren;1;0;0;0;0
+2.03.07.07;Sonstige Maßnahmen zugunsten des Stoffhaushaltes (bitte erläutern);2.03.07.07 Sonstige Maßnahmen zugunsten des Stoffhaushaltes (bitte erläutern);1;0;0;0;0
+2.03.08.01;Entwässerungsgräben nicht wieder instand setzen;2.03.08.01 Entwässerungsgräben nicht wieder instand setzen;1;0;0;0;1
+2.03.08.02;Entwässerungsgräben schließen;2.03.08.02 Entwässerungsgräben schließen;1;0;0;0;1
+2.03.08.03;(Wieder-)Vernässung zulassen;2.03.08.03 (Wieder-)Vernässung zulassen;1;0;0;0;1
+2.03.08.04;Lebensraumuntypische Vernässung reduzieren/einstellen;2.03.08.04 Lebensraumuntypische Vernässung reduzieren/einstellen;1;0;0;0;1
+2.03.08.05;Maßnahmen in der hydrologischen Schutzzone;2.03.08.05 Maßnahmen in der hydrologischen Schutzzone;1;0;0;0;1
+2.03.08.06;Sonstige Maßnahmen zugunsten des Wasserhaushaltes (bitte erläutern);2.03.08.06 Sonstige Maßnahmen zugunsten des Wasserhaushaltes (bitte erläutern);1;0;0;0;1
+2.03.08.07;aktuell keine Maßnahmen zugunsten des Wasserhaushaltes erforderlich;2.03.08.07 aktuell keine Maßnahmen zugunsten des Wasserhaushaltes erforderlich;0;0;0;0;1
+2.03.08.08;hydrologisches Gutachten erforderlich;2.03.08.08 hydrologisches Gutachten erforderlich;1;0;1;0;1
+2.03.09.01;Verbissbelastung reduzieren;2.03.09.01 Verbissbelastung reduzieren;1;0;0;0;0
+2.03.09.02;Schälschäden reduzieren;2.03.09.02 Schälschäden reduzieren;1;0;0;0;0
+2.03.09.03;Zäunung zum Schutz der Verjüngung;2.03.09.03 Zäunung zum Schutz der Verjüngung;1;0;0;0;0
+2.03.09.04;Sonstige Maßnahmen zur Verringerung/Beseitigung von Schäden an der Vegetationsstruktur (bitte erläutern);2.03.09.04 Sonstige Maßnahmen zur Verringerung/Beseitigung von Schäden an der Vegetationsstruktur (bitte erläutern);1;0;0;0;0
+2.03.10.01;Lärmimmission reduzieren;2.03.10.01 Lärmimmission reduzieren;1;0;0;0;0
+2.03.10.02;Erholungsnutzung einschränken/einstellen;2.03.10.02 Erholungsnutzung einschränken/einstellen;1;0;0;0;0
+2.03.10.03;Rückbau von Wegen;2.03.10.03 Rückbau von Wegen;1;0;0;0;0
+2.03.10.04;Sonstige Maßnahmen zur Verringerung/Beseitigung von Störungen (bitte erläutern);2.03.10.04 Sonstige Maßnahmen zur Verringerung/Beseitigung von Störungen (bitte erläutern);1;0;0;0;0
+2.03.11;Rodung/Umwandlung von Wald in eine andere Nutzungsart;2.03.11 Rodung/Umwandlung von Wald in eine andere Nutzungsart;1;0;0;0;1
+2.03.12;Entwicklung zusätzlicher LRT-Flächen (bitte erläutern);2.03.12 Entwicklung zusätzlicher LRT-Flächen (bitte erläutern);1;0;0;0;0
+2.03.13;naturnahe Waldbewirtschaftung/Walderhaltung;2.03.13 naturnahe Waldbewirtschaftung/Walderhaltung;1;0;0;0;0
+2.03.14;besondere Aufmerksamkeit, um seltenen A-Zustand zu erhalten - erhöhte Anforderungen berücksichtigen;2.03.14 besondere Aufmerksamkeit, um seltenen A-Zustand zu erhalten - erhöhte Anforderungen berücksichtigen;1;0;0;0;0
+2.03.15;besondere Aufmerksamkeit, damit sich der ungünstige Zustand nicht noch weiter verschlechtert - ein günstiger Zustand soll möglichst hergestellt werden;2.03.15 besondere Aufmerksamkeit, damit sich der ungünstige Zustand nicht noch weiter verschlechtert - ein günstiger Zustand soll möglichst hergestellt werden;1;0;0;0;0
+2.04.01;Schonung/Förderung der Wildfischbestände;2.04.01 Schonung/Förderung der Wildfischbestände;0;0;1;0;0
+2.04.02;Anlage von Fischschonbezirken ;2.04.02 Anlage von Fischschonbezirken ;0;0;1;1;0
+2.04.03;Traditionelle Bewirtschaftung als Fischteich;2.04.03 Traditionelle Bewirtschaftung als Fischteich;0;0;1;0;0
+2.04.04;Wasserstandsregulierung;2.04.04 Wasserstandsregulierung;0;0;1;0;1
+2.04.05;Trockenlegung im Winter;2.04.05 Trockenlegung im Winter;0;0;1;0;0
+2.04.06;Trockenlegung im Sommer/Herbst (Sömmerung);2.04.06 Trockenlegung im Sommer/Herbst (Sömmerung);0;0;1;0;0
+2.04.07;Instandhaltung von Stauanlagen;2.04.07 Instandhaltung von Stauanlagen;0;0;1;0;0
+2.04.08;Neuanlage von Gewässern;2.04.08 Neuanlage von Gewässern;0;0;1;0;0
+2.04.09;Schaffung zusätzlicher Uferstrukturen/Flachwasserzonen;2.04.09 Schaffung zusätzlicher Uferstrukturen/Flachwasserzonen;0;0;1;1;0
+2.04.10;Anlage/Unterhaltung von Nahrungsteichen, Mehrbesatz;2.04.10 Anlage/Unterhaltung von Nahrungsteichen, Mehrbesatz;0;0;1;0;0
+2.04.11;Erhalt von Uferstrukturen/Flachwasserzonen;2.04.11 Erhalt von Uferstrukturen/Flachwasserzonen;0;0;1;1;0
+2.04.12.01;sofortiger Wiederanstau/Winterbespannung;2.04.12.01 sofortiger Wiederanstau/Winterbespannung;0;0;1;0;0
+2.04.12.02;Bespannung spätestens am 1. März;2.04.12.02 Bespannung spätestens am 1. März;0;0;1;0;0
+2.04.12.03;mehrjähriger Ablassrhythmus;2.04.12.03 mehrjähriger Ablassrhythmus;0;0;1;0;0
+2.04.12.04;ganzjährige Bespannung;2.04.12.04 ganzjährige Bespannung;0;0;1;0;0
+2.04.12.05;sonstige Vorgaben zur Bespannung (bitte erläutern);2.04.12.05 sonstige Vorgaben zur Bespannung (bitte erläutern);0;0;1;0;0
+2.04.12.06;keine Bespannungsvorgabe;2.04.12.06 keine Bespannungsvorgabe;0;0;1;0;0
+2.04.12.07;mind. 6-wöchige Trockenlegung von Teilbereichen im Sommer oder Herbst;2.04.12.07 mind. 6-wöchige Trockenlegung von Teilbereichen im Sommer oder Herbst;0;0;1;0;0
+2.04.13;Abfischen ohne Neubesatz;2.04.13 Abfischen ohne Neubesatz;0;0;1;0;0
+2.04.14;Erhalt und Förderung lebensraumtypischer Unterwasser- und Schwimmblattvegetation;2.04.14 Erhalt und Förderung lebensraumtypischer Unterwasser- und Schwimmblattvegetation;0;0;1;0;0
+2.05.01;extensive Gewässerunterhaltungsmaßnahmen unspezifiziert;2.05.01 extensive Gewässerunterhaltungsmaßnahmen unspezifiziert;0;0;1;1;0
+2.05.02;Mahd am Gewässerufer ;2.05.02 Mahd am Gewässerufer ;0;0;1;1;0
+2.05.03;schonende Entkrautung;2.05.03 schonende Entkrautung;0;0;1;1;0
+2.05.04;schonender Schilfschnitt/Röhrichterhalt;2.05.04 schonender Schilfschnitt/Röhrichterhalt;0;0;1;0;0
+2.05.05;schonende Entlandung (Stillgewässer);2.05.05 schonende Entlandung (Stillgewässer);0;0;1;0;0
+2.05.06;schonende Grabenräumung/-pflege;2.05.06 schonende Grabenräumung/-pflege;0;0;1;1;0
+2.05.07;Unterhaltung abschnittsweise/in mehrjährigen Abständen ;2.05.07 Unterhaltung abschnittsweise/in mehrjährigen Abständen ;0;0;1;1;0
+2.06;Anlage von Schlenken;2.06 Anlage von Schlenken;0;0;0;0;1
+2.07;Schaffung stationärer Schutzanlagen;2.07 Schaffung stationärer Schutzanlagen;0;0;1;0;1
+2.08;Einsatz mobiler Schutzanlagen an Verkehrswegen;2.08 Einsatz mobiler Schutzanlagen an Verkehrswegen;0;0;1;0;1
+2.09.01;mehrjährige Ackerbrache;2.09.01 mehrjährige Ackerbrache;0;1;0;0;0
+2.09.02;Brachestreifen/Blühstreifen;2.09.02 Brachestreifen/Blühstreifen;0;1;0;0;0
+2.09.03;Ackerrandstreifen;2.09.03 Ackerrandstreifen;0;1;0;0;0
+2.09.04;spezielle Anbauverfahren (bitte erläutern);2.09.04 spezielle Anbauverfahren (bitte erläutern);0;1;0;0;0
+2.09.05;Vorgaben für die Fruchtfolge (bitte erläutern);2.09.05 Vorgaben für die Fruchtfolge (bitte erläutern);0;1;0;0;0
+2.09.06;Vorgaben zur Düngung (bitte erläutern);2.09.06 Vorgaben zur Düngung (bitte erläutern);0;1;0;0;0
+2.09.07;Vorgaben zum Einsatz von Pflanzenschutzmitteln (bitte erläutern);2.09.07 Vorgaben zum Einsatz von Pflanzenschutzmitteln (bitte erläutern);0;1;0;0;0
+2.09.08;punktuelle Maßnahmen im Acker (Kiebitzinseln, Feldlerchenfenster, Brutplatzschonung);2.09.08 punktuelle Maßnahmen im Acker (Kiebitzinseln, Feldlerchenfenster, Brutplatzschonung);0;1;0;0;0
+2.09.09;sonstige Ackerbauliche Maßnahmen (bitte erläutern);2.09.09 sonstige Ackerbauliche Maßnahmen (bitte erläutern);0;1;0;0;0
+2.10;Beachtung von Vorkommen gefährdeter Arten (bitte erläutern);2.10 Beachtung von Vorkommen gefährdeter Arten (bitte erläutern);1;1;1;1;1
+2.11;Sonstige Pflegehinweise (bitte erläutern);2.11 Sonstige Pflegehinweise (bitte erläutern);1;1;1;1;1
+3.01.01;Keine Neuansaat/Nachsaat;3.01.01 Keine Neuansaat/Nachsaat;0;0;0;0;1
+3.01.02;Keine Gehölzpflanzungen;3.01.02 Keine Gehölzpflanzungen;0;0;0;0;1
+3.01.03;Keine Pflanzung von Nadelhölzern im LRT-Umfeld;3.01.03 Keine Pflanzung von Nadelhölzern im LRT-Umfeld;0;0;0;0;1
+3.01.04;Kein Walzen/Schleppen im Sommerhalbjahr;3.01.04 Kein Walzen/Schleppen im Sommerhalbjahr;0;0;0;0;1
+3.01.05;Kein Einsatz von Gülle;3.01.05 Kein Einsatz von Gülle;0;0;0;0;1
+3.01.06;Keine Zufütterung bei Weidetieren;3.01.06 Keine Zufütterung bei Weidetieren;0;0;0;0;1
+3.01.07;Keine Pflanzung standortfremder Gehölze im LRT-Umfeld;3.01.07 Keine Pflanzung standortfremder Gehölze im LRT-Umfeld;0;0;0;0;1
+3.02.01;Rücknahme/Regulierung der fischereiwirtschaftlichen Nutzung;3.02.01 Rücknahme/Regulierung der fischereiwirtschaftlichen Nutzung;0;0;1;0;0
+3.02.02;kein Fischbesatz und keine fischereiwirtschaftliche Nutzung;3.02.02 kein Fischbesatz und keine fischereiwirtschaftliche Nutzung;0;0;1;1;0
+3.02.03;kein Besatz mit gebietsfremden Fischarten;3.02.03 kein Besatz mit gebietsfremden Fischarten;0;0;1;1;0
+3.02.04;keine Gewässerunterhaltung;3.02.04 keine Gewässerunterhaltung;0;0;0;1;0
+3.02.05;Keine Ablagerungen auf Kies- und Schlammbänken während der Vegetationszeit;3.02.05 Keine Ablagerungen auf Kies- und Schlammbänken während der Vegetationszeit;0;0;0;1;0
+3.02.06.01;keinerlei Fischbesatz;3.02.06.01 keinerlei Fischbesatz;0;0;1;0;0
+3.02.06.02;quantitative Ertrags- oder Besatzvorgabe (bitte erläutern);3.02.06.02 quantitative Ertrags- oder Besatzvorgabe (bitte erläutern);0;0;1;0;0
+3.02.06.03;keine Besatzvorgabe;3.02.06.03 keine Besatzvorgabe;0;0;1;0;0
+3.02.07.01;Beschränkung Graskarpfenbesatz (bitte erläutern);3.02.07.01 Beschränkung Graskarpfenbesatz (bitte erläutern);0;0;1;0;0
+3.02.07.02;Beschränkung Raubfischbesatz (bitte erläutern);3.02.07.02 Beschränkung Raubfischbesatz (bitte erläutern);0;0;1;0;0
+3.02.07.03;Beschränkung Graskarpfen- und Raubfischbesatz (bitte erläutern);3.02.07.03 Beschränkung Graskarpfen- und Raubfischbesatz (bitte erläutern);0;0;1;0;0
+3.02.07.04;Kein Graskarpfenbesatz;3.02.07.04 Kein Graskarpfenbesatz;0;0;1;0;0
+3.02.07.05;Kein Raubfischbesatz;3.02.07.05 Kein Raubfischbesatz;0;0;1;0;0
+3.02.07.06;Kein Graskarpfen- und Raubfischbesatz;3.02.07.06 Kein Graskarpfen- und Raubfischbesatz;0;0;1;0;0
+3.02.07.07;Keine Vorgabe zu Graskarpfen- und Raubfischbesatz;3.02.07.07 Keine Vorgabe zu Graskarpfen- und Raubfischbesatz;0;0;1;0;0
+3.02.07.08;sonstige Vorgaben zum Fischbesatz (bitte erläutern);3.02.07.08 sonstige Vorgaben zum Fischbesatz (bitte erläutern);0;0;1;0;0
+3.02.08.01;keine Teichdüngung;3.02.08.01 keine Teichdüngung;0;0;1;0;0
+3.02.08.02;Beschränkung Teichdüngung (bitte erläutern);3.02.08.02 Beschränkung Teichdüngung (bitte erläutern);0;0;1;0;0
+3.02.08.03;keine Vorgabe zur Teichdüngung;3.02.08.03 keine Vorgabe zur Teichdüngung;0;0;1;0;0
+3.02.09.01;keine Teichkalkung;3.02.09.01 keine Teichkalkung;0;0;1;0;0
+3.02.09.02;Beschränkung Teichkalkung (bitte erläutern);3.02.09.02 Beschränkung Teichkalkung (bitte erläutern);0;0;1;0;0
+3.02.09.03;keine Vorgabe zur Teichkalkung;3.02.09.03 keine Vorgabe zur Teichkalkung;0;0;1;0;0
+3.02.10.01;keine Zufütterung Teichwirtschaft/Naturnahrung;3.02.10.01 keine Zufütterung Teichwirtschaft/Naturnahrung;0;0;1;0;0
+3.02.10.02;nur angemessene Getreidefütterung;3.02.10.02 nur angemessene Getreidefütterung;0;0;1;0;0
+3.02.10.03;angemessene Getreide- oder Pelletfütterung/Mischfutter nur zur Konditionierung;3.02.10.03 angemessene Getreide- oder Pelletfütterung/Mischfutter nur zur Konditionierung;0;0;1;0;0
+3.02.10.04;sonstige Beschränkung Zufütterung Teichwirtschaft (bitte erläutern);3.02.10.04 sonstige Beschränkung Zufütterung Teichwirtschaft (bitte erläutern);0;0;1;0;0
+3.02.10.05;keine Vorgabe zur Zufütterung Teichwirtschaft;3.02.10.05 keine Vorgabe zur Zufütterung Teichwirtschaft;0;0;1;0;0
+3.03.01;Betretungsverbot;3.03.01 Betretungsverbot;0;1;1;0;1
+3.03.02;Besucherlenkung/Regelung der Freizeitnutzung (Sport, Zelten, Angeln, Bootfahren etc.);3.03.02 Besucherlenkung/Regelung der Freizeitnutzung (Sport, Zelten, Angeln, Bootfahren etc.);1;1;1;1;1
+3.03.03;Kein Einsatz von Pflanzenschutzmitteln;3.03.03 Kein Einsatz von Pflanzenschutzmitteln;0;0;0;0;1
+3.03.04;keine Kalkung im hydrologischen Einzugsgebiet;3.03.04 keine Kalkung im hydrologischen Einzugsgebiet;1;0;1;0;1
+3.03.05;Vorgaben zur Wege- und Teichdammpflege (bitte erläutern);3.03.05 Vorgaben zur Wege- und Teichdammpflege (bitte erläutern);0;0;1;0;0
+3.03.06;keine Beleuchtung von Gebäudeteilen (Fledermausschutz) ;3.03.06 keine Beleuchtung von Gebäudeteilen (Fledermausschutz) ;0;1;0;0;0
+3.03.07;kein Einsatz von Bioziden (Rodentizide, Insektizide etc.);3.03.07 kein Einsatz von Bioziden (Rodentizide, Insektizide etc.);1;1;1;0;1
+3.04;Sonstige Verbote/Unterlassungen (bitte erläutern);3.04 Sonstige Verbote/Unterlassungen (bitte erläutern);1;1;1;1;1
+4.01;Natürliche Sukzession/Teilbereiche ohne Bewirtschaftung;4.01 Natürliche Sukzession/Teilbereiche ohne Bewirtschaftung;0;1;1;1;1
+4.02.01;Ausweisung von Schutzgebieten unspezifiziert;4.02.01 Ausweisung von Schutzgebieten unspezifiziert;1;0;1;1;1
+4.02.02;Ausweisung/Erweiterung NSG;4.02.02 Ausweisung/Erweiterung NSG;1;0;1;1;1
+4.02.03;Ausweisung Naturdenkmal;4.02.03 Ausweisung Naturdenkmal;1;1;1;1;1
+4.02.04;Geschwindigkeitsbegrenzung;4.02.04 Geschwindigkeitsbegrenzung;1;1;0;0;1
+4.03;Bestandsstützende Maßnahmen/Vermehrungskultur;4.03 Bestandsstützende Maßnahmen/Vermehrungskultur;1;0;1;1;1
+4.04;Aufstellen von Informationstafeln;4.04 Aufstellen von Informationstafeln;1;1;1;1;1
+4.05;Beheizung Hufeisennasen-Quartiere;4.05 Beheizung Hufeisennasen-Quartiere;0;1;0;0;0
+4.06;weitere sonstige Maßnahmen (bitte erläutern);4.06 weitere sonstige Maßnahmen (bitte erläutern);1;1;1;1;1
+5;Maßnahmen zugunsten der lebensraumtypischen Fauna (bitte erläutern);5 Maßnahmen zugunsten der lebensraumtypischen Fauna (bitte erläutern);1;1;0;0;0
+6.01;allgemein: LRT-spezifische Behandlungsgrundsätze beachten;6.01 allgemein: LRT-spezifische Behandlungsgrundsätze beachten;1;0;0;0;0
+6.02;Standardmaßnahmen LRT 9110;6.02 Standardmaßnahmen LRT 9110;1;0;0;0;0
+6.03;Standardmaßnahmen LRT 9130;6.03 Standardmaßnahmen LRT 9130;1;0;0;0;0
+6.04;Standardmaßnahmen LRT 9160;6.04 Standardmaßnahmen LRT 9160;1;0;0;0;0
+6.05;Standardmaßnahmen LRT 9170;6.05 Standardmaßnahmen LRT 9170;1;0;0;0;0
+6.06;Standardmaßnahmen LRT 9180*;6.06 Standardmaßnahmen LRT 9180*;1;0;0;0;0
+6.07;Standardmaßnahmen LRT 9190;6.07 Standardmaßnahmen LRT 9190;1;0;0;0;0
+6.08;Standardmaßnahmen LRT 91D1*;6.08 Standardmaßnahmen LRT 91D1*;1;0;0;0;0
+6.09;Standardmaßnahmen LRT 91D2*;6.09 Standardmaßnahmen LRT 91D2*;1;0;0;0;0
+6.10;Standardmaßnahmen LRT 91D3*;6.10 Standardmaßnahmen LRT 91D3*;1;0;0;0;0
+6.11;Standardmaßnahmen LRT 91D4*;6.11 Standardmaßnahmen LRT 91D4*;1;0;0;0;0
+6.12;Standardmaßnahmen LRT 91E0*;6.12 Standardmaßnahmen LRT 91E0*;1;0;0;0;0
+6.13;Standardmaßnahmen LRT 91F0;6.13 Standardmaßnahmen LRT 91F0;1;0;0;0;0
+6.14;Standardmaßnahmen LRT 91G0*;6.14 Standardmaßnahmen LRT 91G0*;1;0;0;0;0
+6.15;Standardmaßnahmen LRT 91T0;6.15 Standardmaßnahmen LRT 91T0;1;0;0;0;0
+6.16;Standardmaßnahmen LRT 91U0;6.16 Standardmaßnahmen LRT 91U0;1;0;0;0;0
+6.17;Standardmaßnahmen LRT 9410;6.17 Standardmaßnahmen LRT 9410;1;0;0;0;0

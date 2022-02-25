@@ -1,0 +1,53 @@
+id;beeintraechtigungen
+100;Boden, Wasserhaushalt, Stoffhaushalt
+101;Abbau (Sand, Gestein, Torf) / Materialentnahme
+102;Störungen des Oberbodens / der Bodendecke bzw. des Substrates
+103;Veränderungen des Torfkörpers (Sackung, Zersetzung, Mineralisation)
+104;Veränderung der Bodenstruktur / des Bodenaufbaus (z.B. Umbruch)
+105;Verdichtung (Befahrung)
+106;Grundwasserabsenkung
+107;Entwässerung
+108;Gewässerverrohrung / -verlegung / -begradigung/ -verbau / Uferbefestigung
+109;Bespannungsregime
+110;Wasserstandsschwankungen (anthropogen, nicht nutzungsbedingt)
+111;Wasserentnahme
+112;(Grund-) Wasseranstieg durch Stauhaltung /Anstaumaßnahmen
+113;Buhnen, Sohl- / Querbauwerke
+114;Nährstoffmobilisierung im Sediment
+115;Biologische Gewässergüte
+116;chem. / biochem. / therm. Belastung
+117;Nährstoffeintrag (N, P) (Eutrophierung) (einschl. org. Ablagerungen)
+118;Eintrag anderer Stoffe (einschl. Fremdstoffe zur Wegebefestigung)
+119;Müllablagerung (anorganische Stoffe)
+120;Schadstoffeintrag (Öl, PAK, Ruß, Stäube, PSM, Salze)
+121;Versauerung
+200;Störungen an der Vegetationsstruktur
+201;Nutzungsauflassung / Brache
+202;direkte Schädigung von Vegetation
+203;Verbuschung / Gehölzaufwuchs
+204;Vergrasung / Grasfilz
+205;Vitalitätseinbußen
+206;Verbiß
+207;Schäle
+208;Pflegedefizite
+209;LR-untypische Arten / Dominanzen
+210;Neophyten / Neozoen
+211;sonst. Störzeiger (incl. Ruderalisierungszeiger)
+212;Nährstoffzeiger
+213;Versauerungszeiger
+214;Fischbesatz mit lr-untyp. Arten
+216;Entwässerungszeiger (einschl. Verheidungszeiger
+300;Nutzung / Bewirtschaftung
+301;Bewirtschaftungsintensität
+302;Aufforstung
+303;Beweidung
+304;Teichpflege (Strukturen)
+305;Gewässerunterhaltung
+306;Sonstiges
+307;Beschattung
+308;Begängnis, Frequentierung
+309;punktuelle Uferverbauung (Bootsanleger, Stege, Bootshäuser etc.)
+400;Lärm
+500;Zerschneidung
+600;Untere Makrophytengrenze
+700;Sonstige Beeinträchtigung

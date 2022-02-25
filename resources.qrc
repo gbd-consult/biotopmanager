@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="/plugins/biotop_manager">
+    <file>icon.png</file>
+    <file>assets/icons/leaf-add-01.svg</file>
+    <file>assets/icons/leaf-archive-02.svg</file>
+    <file>assets/icons/leaf-cancel-01.svg</file>
+    <file>assets/icons/leaf-edit-01.svg</file>
+    <file>assets/icons/leaf-help-01.svg</file>
+    <file>assets/icons/leaf-history-02.svg</file>
+    <file>assets/icons/leaf-login-01.svg</file>
+    <file>assets/icons/leaf-main-01.svg</file>
+    <file>assets/icons/leaf-save-01.svg</file>
+    <file>assets/icons/leaf-show-01.svg</file>
+    <file>assets/icons/leaf-show-02.svg</file>
+    <file>assets/icons/leaf-zoom-01.svg</file>
+  </qresource>
+</RCC>
