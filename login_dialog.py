@@ -84,7 +84,7 @@ class LoginDialog(QtWidgets.QDialog, FORM_CLASS):
 
                 dbconn.set_user_password(user=pguser.user_id, password=pguser.password)
                 dbconn.connect()
-            if self.radioButton.isChecked():
+            elif self.radioButton.isChecked():
                 pass
             else:
                 QtWidgets.QMessageBox.critical(self, "Fehler", "Kein Login ausgewählt.")
