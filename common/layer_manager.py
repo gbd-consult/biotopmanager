@@ -143,8 +143,8 @@ class LayerManager(metaclass=Singleton):
         """
 
         uri = QgsDataSourceUri()
-        #uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, self._conn.password)
-        uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, '')
+        uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, self._conn.password)
+        #uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, '')
         uri.setDataSource(self._conf.biotope_schema, self._conf.biotope_table_name,
                           self._conf.biotope_geometry_column, "", self._conf.biotope_primary_key)
         # print(uri.uri())
@@ -167,8 +167,8 @@ class LayerManager(metaclass=Singleton):
         """
 
         uri = QgsDataSourceUri()
-        #uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, self._conn.password)
-        uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, '')
+        uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, self._conn.password)
+        #uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, '')
         uri.setDataSource(self._conf.history_schema, self._conf.historie_table_name,
                           self._conf.biotope_geometry_column, "", self._conf.history_primary_key)
         # print(uri.uri())
@@ -191,8 +191,8 @@ class LayerManager(metaclass=Singleton):
         """
 
         uri = QgsDataSourceUri()
-        #uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, self._conn.password)
-        uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, '')
+        uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, self._conn.password)
+        #uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, '')
         uri.setDataSource(self._conf.biotop_deleted_schema, self._conf.biotop_deleted_table_name,
                           self._conf.biotope_geometry_column, "", self._conf.history_primary_key)
         # print(uri.uri())
@@ -215,8 +215,8 @@ class LayerManager(metaclass=Singleton):
         """
 
         uri = QgsDataSourceUri()
-        #uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, self._conn.password)
-        uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, '')
+        uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, self._conn.password)
+        #uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, '')
         uri.setDataSource(self._conf.biotope_schema, self._conf.locked_biotope_view_name,
                           self._conf.biotope_geometry_column, "", self._conf.biotope_primary_key)
         # print(uri.uri())
@@ -243,8 +243,8 @@ class LayerManager(metaclass=Singleton):
             self.create_biotope_edit_layer_postgis(schema=schema, table=table, temp_table=temp_table)
 
         uri = QgsDataSourceUri()
-        #uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, self._conn.password)
-        uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, '')
+        uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, self._conn.password)
+        #uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, '')
         uri.setDataSource(schema, temp_table,
                           self._conf.biotope_geometry_column, "", self._conf.biotope_primary_key)
         # print(uri.uri())
@@ -292,8 +292,8 @@ class LayerManager(metaclass=Singleton):
         for table_name in self._conf.reference_tables:
 
             uri = QgsDataSourceUri()
-            #uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, self._conn.password)
-            uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, '')
+            uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, self._conn.password)
+            #uri.setConnection(self._conn.host, str(self._conn.port), self._conn.db, self._conn.user, '')
             uri.setDataSource(self._conf.references_schema, table_name, None, "", "id")
             # print(uri.uri())
             layer = QgsVectorLayer(uri.uri(), table_name, "postgres")

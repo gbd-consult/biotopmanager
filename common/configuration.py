@@ -92,9 +92,9 @@ class Configuration(metaclass=Singleton):
 
         self._biotoptyp_table = "biotoptypen"
 
-        self._default_host = "localhost"
-        self._default_port = 5432
-        self._default_db = "biotope"
+        #self._default_host = "localhost"
+        #self._default_port = 5432
+        #self._default_db = "biotope"
         #self._default_user = "biotope_user"
         #self._default_password = "biotope_user"
 
