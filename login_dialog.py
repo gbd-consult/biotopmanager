@@ -61,24 +61,33 @@ class LoginDialog(QtWidgets.QDialog, FORM_CLASS):
         self.setCursor(QtCore.Qt.WaitCursor)
 
         try:
-            user = self.lineEditUser.text()
-            password = self.lineEditPassword.text()
-            pguser = PostgresUser()
-            pguser.user_id = user
-            pguser.password = password
+            if self.radioButton_2.isChecked():
+                input_user = self.lineEditUser.text()
+                input_password = self.lineEditPassword.text()
+                input_host = self.lineEditHost.text()
+                input_port = self.lineEditPort.text()
+                input_database = self.lineEditDB.text()
+                pguser = PostgresUser()
+                pguser.user_id = input_user
+                pguser.password = input_password
 
-            #index = self.comboBoxDatenbank.currentIndex()
+                #index = self.comboBoxDatenbank.currentIndex()
 
-            config = Configuration()
-            dbconn = DatabaseConnection()
+                #config = Configuration()
+                dbconn = DatabaseConnection()
 
-            #if index == 0:
-            dbconn.set_connection(host=config.default_host, port=config.default_port, db=config.default_db)
-            #else:
-            #    dbconn.set_connection(host=config.develop_host, port=config.develop_port, db=config.develop_db)
+                dbconn.set_connection(host=input_host, port=input_port, db=input_database)
+                #if index == 0:
+                #dbconn.set_connection(host=config.default_host, port=config.default_port, db=config.default_db)
+                #else:
+                #    dbconn.set_connection(host=config.develop_host, port=config.develop_port, db=config.develop_db)
 
-            dbconn.set_user_password(user=pguser.user_id, password=pguser.password)
-            dbconn.connect()
+                dbconn.set_user_password(user=pguser.user_id, password=pguser.password)
+                dbconn.connect()
+            if self.radioButton.isChecked():
+                pass
+            else:
+                QtWidgets.QMessageBox.critical(self, "Fehler", "Kein Login ausgewählt.")
 
             self._load_layers()
         except Exception as e:
