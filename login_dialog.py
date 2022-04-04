@@ -30,7 +30,11 @@ import pprint
 from PyQt5 import uic, QtCore
 from PyQt5 import QtWidgets
 
-from qgis.core import QgsProject
+from qgis.core import (
+    QgsProject,
+    QgsAuthMethodConfig,
+    QgsApplication
+)
 
 from biotopmanager.common.user_credentials import PostgresUser
 from biotopmanager.common.database_connection import DatabaseConnection
@@ -61,31 +65,43 @@ class LoginDialog(QtWidgets.QDialog, FORM_CLASS):
         self.setCursor(QtCore.Qt.WaitCursor)
 
         try:
-            if self.radioButton_2.isChecked():
+            input_host = self.lineEditHost.text()
+            input_port = self.lineEditPort.text()
+            input_database = self.lineEditDB.text()
+
+            #index = self.comboBoxDatenbank.currentIndex()
+
+            #config = Configuration()
+            dbconn = DatabaseConnection()
+
+            dbconn.set_connection(host=input_host, port=input_port, db=input_database)
+            #if index == 0:
+            #dbconn.set_connection(host=config.default_host, port=config.default_port, db=config.default_db)
+            #else:
+            #    dbconn.set_connection(host=config.develop_host, port=config.develop_port, db=config.develop_db)
+
+            if self.tab_basic is self.tabWidget.currentWidget():
                 input_user = self.lineEditUser.text()
                 input_password = self.lineEditPassword.text()
-                input_host = self.lineEditHost.text()
-                input_port = self.lineEditPort.text()
-                input_database = self.lineEditDB.text()
+
                 pguser = PostgresUser()
                 pguser.user_id = input_user
                 pguser.password = input_password
 
-                #index = self.comboBoxDatenbank.currentIndex()
-
-                #config = Configuration()
-                dbconn = DatabaseConnection()
-
-                dbconn.set_connection(host=input_host, port=input_port, db=input_database)
-                #if index == 0:
-                #dbconn.set_connection(host=config.default_host, port=config.default_port, db=config.default_db)
-                #else:
-                #    dbconn.set_connection(host=config.develop_host, port=config.develop_port, db=config.develop_db)
-
                 dbconn.set_user_password(user=pguser.user_id, password=pguser.password)
                 dbconn.connect()
-            elif self.radioButton.isChecked():
-                pass
+            elif self.tab_conf is self.tabWidget.currentWidget():
+                authcfg_id = self.mAuthConfigSelect.configId()
+                auth_mgr = QgsApplication.authManager()
+                auth_cfg = QgsAuthMethodConfig()
+                auth_mgr.loadAuthenticationConfig(authcfg_id, auth_cfg, True)
+                pguser = PostgresUser()
+                pguser.user_id = auth_cfg.configMap()['username']
+                pguser.password = auth_cfg.configMap()['password']
+                
+                dbconn.set_user_password(user=pguser.user_id, password=pguser.password)
+                dbconn.connect()
+
             else:
                 QtWidgets.QMessageBox.critical(self, "Fehler", "Kein Login ausgewählt.")
 
